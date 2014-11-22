@@ -1,0 +1,5 @@
+//maincpp
+int main()
+{
+	
+}
